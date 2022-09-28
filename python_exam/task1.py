@@ -30,13 +30,6 @@ def get_highest_lowest():
 
     return [highest_value_position+1, lowest_value_position+1]
 
-    print(highest_value)
-    #print(highest_value_position)
-    #print(laser_readings_list[highest_value_position])
-    #print(lowest_value_position)
-    #print(laser_readings_list[lowest_value_position])
-    #print(lowest_value)
-    #print(laser_readings_list)
 
 
 if __name__ == "__main__":
